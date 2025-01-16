@@ -1,10 +1,10 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(41, 106, 127);
     font-family: Arial, sans-serif;
     margin: 20px;
 }
 h1 {
-    color: navy;
+    color: rgb(255, 255, 255);
     font-size: 2em;
 }
 p {
